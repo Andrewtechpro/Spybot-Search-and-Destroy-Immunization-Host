@@ -1,6 +1,7 @@
-This is Spybot S&D's Immunization Host File
-All credit goes to Safer-Networking Ltd.
-List Contains Immunization against Spyware and Malware
+#          Spybot Search and Destroy's Immunization Host File          #
+#              All credit goes to Safer-Networking Ltd.                #     
+#       List Contains Immunization against Spyware and Malware         #
+
 # Start of entries inserted by Spybot - Search & Destroy
 127.0.0.1	www.007guard.com
 127.0.0.1	007guard.com
